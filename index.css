@@ -483,11 +483,6 @@
   overflow: hidden;
   flex-shrink: 0;
 }
-.a-propos {
-  position: relative;
-  text-transform: uppercase;
-  font-weight: 500;
-}
 .footer-comp {
   display: flex;
   flex-direction: row;
